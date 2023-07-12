@@ -1,0 +1,6 @@
+.titleofblogs {
+    border: 10px ridge #ffdab9;
+    background-color: #ffffe0;
+    padding: 0.1rem;
+    flex-direction: column;
+}
